@@ -1,0 +1,9 @@
+name: Olympos
+description: 'New starter theme'
+author: 'Elif KÜMBETLİ'
+homepage: 'http://localhost/wintermovies'
+code: ''
+form:
+    fields:
+        googleanalytics_id:
+            label: 'Google Analytics ID'
