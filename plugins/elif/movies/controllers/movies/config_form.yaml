@@ -1,0 +1,10 @@
+name: Movies
+form: $/elif/movies/models/movie/fields.yaml
+modelClass: Elif\Movies\Models\Movie
+defaultRedirect: elif/movies/movies
+create:
+    redirect: 'elif/movies/movies/update/:id'
+    redirectClose: elif/movies/movies
+update:
+    redirect: elif/movies/movies
+    redirectClose: elif/movies/movies

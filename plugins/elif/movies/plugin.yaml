@@ -1,0 +1,11 @@
+plugin:
+    name: 'elif.movies::lang.plugin.name'
+    description: 'elif.movies::lang.plugin.description'
+    author: Elif
+    icon: icon-film
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movies
+        url: elif/movies/movies
+        icon: icon-video-camera
